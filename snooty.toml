@@ -1,5 +1,5 @@
 name = "mongoid-railsmdb"
-title = "Railsmdb for Mongoid"
+title = "RailsMDB"
 
 intersphinx = [ 
   "https://www.mongodb.com/docs/manual/objects.inv",
